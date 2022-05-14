@@ -1,4 +1,4 @@
-# Motley-Fool-recommandations-performance-analyzer
+# Motley-Fool-recommandations-performance-debunker
 A spreadsheet that allows you to filter the track record of Motley Fool stock recommendations to see how much imperfect execution under real-world conditions would have changed the results from what they advertise
 
 Motley Fool publishes averages showing 20 years of their stock picks' performance versus the S&P. However, they don't publish medians, or talk about how much of that outperformance is from a relatively small handful of stocks. For instance, while their overall track record is several hundred percent better than SPY over 20 years, since 2009 it's only 23% better than SPY. Then if you missed just the top 1% of their picks since then, and bought the entire other 99%, you only did 2% better than SPY. So the effects of just missing a very small number of picks, just one or two monthly picks in 10 years, can effectively eradicate the advertised advantage of using their service. And their median pick, overall, is only 28% return over 20 over 20 years, or about 1% annualized, far worse than the S&P.
